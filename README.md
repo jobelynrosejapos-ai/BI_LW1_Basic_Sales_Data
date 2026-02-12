@@ -63,7 +63,7 @@ PART 3: Creating Auto-Generated Visuals
 Step 1: Quick Visualization
 1. Drag Sales into canvas
 
-<img width="1555" height="910" alt="image" src="https://github.com/user-attachments/assets/ecb07380-4d64-4c46-9b51-cf7253467fb2" />
+<img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/ecb07380-4d64-4c46-9b51-cf7253467fb2" />
 
 2. Power BI automatically creates a visual
 
