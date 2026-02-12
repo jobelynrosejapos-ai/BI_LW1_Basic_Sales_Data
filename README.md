@@ -11,7 +11,7 @@ Step 1: Open Power BI Desktop
 3. Wait for the startup screen
 
 
-<img width="599" height="299" alt="image" src="https://github.com/user-attachments/assets/0d866dc0-2ea7-4ff5-976b-43b234718cf4" />
+<img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/0d866dc0-2ea7-4ff5-976b-43b234718cf4" />
 <img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/1d91a931-deb1-4e34-a92a-0f1a5902b9c7" />
 <img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/336fd8b7-dd56-43a8-97c3-5a03eea07e11" />
 
