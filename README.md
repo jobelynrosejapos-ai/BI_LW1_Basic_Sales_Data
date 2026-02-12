@@ -88,6 +88,16 @@ Question:
    Clustered column chart
    
    What does it show?
+
+   Clustered chart for Sum of Sales
+
+ PART 3: Creating Auto-Generated Visuals
+
+Step 2: Create a Sales by Region Chart
+
+1. Click blank canvas
+   
+2. Select Clustered Column Chart
    
 
 
