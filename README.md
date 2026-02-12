@@ -34,3 +34,7 @@ Step 3: Verify Data in Data View
 ○ Date → Date
 ○ Sales → Decimal Number
 ○ Product/Category/Region → Text
+
+PART 2: Exploring the Interface
+<img width="485" height="143" alt="image" src="https://github.com/user-attachments/assets/bfa2ed88-fe53-4a79-b206-74d2235544c2" />
+
