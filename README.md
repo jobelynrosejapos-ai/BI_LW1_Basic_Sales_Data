@@ -66,6 +66,7 @@ Step 1: Quick Visualization
 
 Question:
    What type of chart was created?
+   
    What does it show?
 
 
