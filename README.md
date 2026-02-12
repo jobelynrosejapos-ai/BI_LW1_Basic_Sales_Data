@@ -24,4 +24,11 @@ Step 2: Load the Dataset
 Week1_Basic_Sales_Data.csv
 5. Click Load
 
+<img width="505" height="455" alt="image" src="https://github.com/user-attachments/assets/3ba987c4-1089-4042-8235-25fdda874d8f" />
 
+1. Click the column
+2. Go to Column Tools
+3. Change Data Type accordingly:
+○ Date → Date
+○ Sales → Decimal Number
+○ Product/Category/Region → Text
