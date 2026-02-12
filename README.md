@@ -19,6 +19,7 @@ Week1_Basic_Sales_Data.csv
 
 <img width="599" height="299" alt="image" src="https://github.com/user-attachments/assets/0d866dc0-2ea7-4ff5-976b-43b234718cf4" />
 <img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/1d91a931-deb1-4e34-a92a-0f1a5902b9c7" />
-<img width="526" height="396" alt="image" src="https://github.com/user-attachments/assets/07ae53e3-7fe6-4d24-a415-480a4d9d6205" />
+<img width="1898" height="993" alt="image" src="https://github.com/user-attachments/assets/549d5a54-8383-4f4c-a622-b6c10718ffe2" />
+
 
 
