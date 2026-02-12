@@ -36,5 +36,23 @@ Step 3: Verify Data in Data View
 ○ Product/Category/Region → Text
 
 PART 2: Exploring the Interface
-<img width="485" height="143" alt="image" src="https://github.com/user-attachments/assets/bfa2ed88-fe53-4a79-b206-74d2235544c2" />
+
+<img width="1556" height="958" alt="image" src="https://github.com/user-attachments/assets/5bbac149-f27a-4441-871d-b9f43b3671fd" />
+
+Report View
+
+<img width="177" height="216" alt="image" src="https://github.com/user-attachments/assets/1bb10df0-1b2a-462e-b9bf-01fe2bcb3e6e" />
+
+Data View
+
+<img width="1639" height="936" alt="image" src="https://github.com/user-attachments/assets/2557f53f-f2e0-4f02-8711-b305ce0ee709" />
+
+Model View
+
+
+
+
+
+PART 3: Creating Auto-Generated Visuals
+
 
