@@ -29,8 +29,11 @@ Step 3: Verify Data in Data View
 1. Click the column
 2. Go to Column Tools
 3. Change Data Type accordingly:
+   
 ○ Date → Date
+
 ○ Sales → Decimal Number
+
 ○ Product/Category/Region → Text
 
 <img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/3ba987c4-1089-4042-8235-25fdda874d8f" />
@@ -65,6 +68,7 @@ Step 1: Quick Visualization
 2. Power BI automatically creates a visual
 
 Question:
+
    What type of chart was created?
    
    What does it show?
