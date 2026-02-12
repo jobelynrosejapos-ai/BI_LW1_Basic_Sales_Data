@@ -3,7 +3,7 @@ Getting Started with Power BI – Loading and Exploring Data
 
 
 
-<img width="502" height="240" alt="image" src="https://github.com/user-attachments/assets/1a51cf35-64f4-4b19-acd1-4117e4815b78" />
+<img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/1a51cf35-64f4-4b19-acd1-4117e4815b78" />
 
 Step 1: Open Power BI Desktop
 1. Click Start
