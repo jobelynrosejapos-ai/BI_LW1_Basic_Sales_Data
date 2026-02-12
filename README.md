@@ -26,6 +26,17 @@ Week1_Basic_Sales_Data.csv
 
 Step 3: Verify Data in Data View
 
+Question:
+
+1. Are all columns visible?
+ YES
+2. Is “Date” formatted as Date?
+
+   YES
+3. Is “Sales” formatted as Decimal Number?
+
+   NO, but i change it into Decimal number.
+   
 1. Click the column
 2. Go to Column Tools
 3. Change Data Type accordingly:
