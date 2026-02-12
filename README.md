@@ -1,12 +1,14 @@
 # BI_LW1_Basic_Sales_Data
 Getting Started with Power BI – Loading and Exploring Data
 
-Step 1: Open Power BI Desktop
-● Click Start
-● Open Microsoft Power BI Desktop
-● Wait for the startup screen
+
 
 <img width="502" height="240" alt="image" src="https://github.com/user-attachments/assets/1a51cf35-64f4-4b19-acd1-4117e4815b78" />
+
+Step 1: Open Power BI Desktop
+1. Click Start
+2. Open Microsoft Power BI Desktop
+3. Wait for the startup screen
 
 
 <img width="599" height="299" alt="image" src="https://github.com/user-attachments/assets/0d866dc0-2ea7-4ff5-976b-43b234718cf4" />
