@@ -8,3 +8,17 @@ Step 1: Open Power BI Desktop
 
 <img width="502" height="240" alt="image" src="https://github.com/user-attachments/assets/1a51cf35-64f4-4b19-acd1-4117e4815b78" />
 
+Step 2: Load the Dataset
+1. Click Home Tab
+2. Click Get Data
+3. Select Text/CSV
+
+4. Browse and select:
+Week1_Basic_Sales_Data.csv
+5. Click Load
+
+<img width="599" height="299" alt="image" src="https://github.com/user-attachments/assets/0d866dc0-2ea7-4ff5-976b-43b234718cf4" />
+<img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/1d91a931-deb1-4e34-a92a-0f1a5902b9c7" />
+<img width="526" height="396" alt="image" src="https://github.com/user-attachments/assets/07ae53e3-7fe6-4d24-a415-480a4d9d6205" />
+
+
