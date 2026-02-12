@@ -26,7 +26,7 @@ Week1_Basic_Sales_Data.csv
 
 Step 3: Verify Data in Data View
 
-<img width="505" height="455" alt="image" src="https://github.com/user-attachments/assets/3ba987c4-1089-4042-8235-25fdda874d8f" />
+<img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/3ba987c4-1089-4042-8235-25fdda874d8f" />
 
 1. Click the column
 2. Go to Column Tools
@@ -37,15 +37,15 @@ Step 3: Verify Data in Data View
 
 PART 2: Exploring the Interface
 
-<img width="1556" height="958" alt="image" src="https://github.com/user-attachments/assets/5bbac149-f27a-4441-871d-b9f43b3671fd" />
+<img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/5bbac149-f27a-4441-871d-b9f43b3671fd" />
 
 Report View
 
-<img width="177" height="216" alt="image" src="https://github.com/user-attachments/assets/1bb10df0-1b2a-462e-b9bf-01fe2bcb3e6e" />
+<img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/1bb10df0-1b2a-462e-b9bf-01fe2bcb3e6e" />
 
 Data View
 
-<img width="1639" height="936" alt="image" src="https://github.com/user-attachments/assets/2557f53f-f2e0-4f02-8711-b305ce0ee709" />
+<img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/2557f53f-f2e0-4f02-8711-b305ce0ee709" />
 
 Model View
 
