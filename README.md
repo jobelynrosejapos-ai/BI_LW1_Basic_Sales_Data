@@ -128,11 +128,12 @@ Step 3: Sales by Category
 Question:
 
 ● Which category dominates?
-Answer:
+
+Answer: Electonics
 
 ● Is the distribution balanced?
 
-Answer:
+Answer: No
 
 Step 4: Sales Over Time
 
@@ -144,7 +145,15 @@ Step 4: Sales Over Time
 
 ○ Sales → Values
 
-   
+Question:
+
+● Is there growth?
+
+Answer:
+
+● Any noticeable trend?
+
+Answer: 
 
 
 
