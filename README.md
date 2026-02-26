@@ -168,6 +168,8 @@ Question:
 
 Answer: Based on the provided visualizations, the data does not specify which region contributes the most revenue, as the charts only break down sales by year and category. However, the "Sum of Sales by Category" chart shows that Electronics is the top-performing category, accounting for 40.82% ($90\text{K}$) of total revenue.
 
+● Which product category performs best?
 
+Answer:
 
 
