@@ -237,4 +237,20 @@ Task 1: Add a Card Visualization
 2. Drag Sales
 3. Format:
 ○ Increase font size
+
 ○ Change title to “Total Sales”
+
+<img width="544" height="295" alt="image" src="https://github.com/user-attachments/assets/ec0b884e-b5ca-4b6b-9fb3-8bc500683e5b" />
+
+Question:
+
+● What is the total sales amount?
+
+Answer: 220K
+
+Task 2: Add Slicer
+
+1. Insert Slicer
+2. Drag Region
+3. Test filtering
+
