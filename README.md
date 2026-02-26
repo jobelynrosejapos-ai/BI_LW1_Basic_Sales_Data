@@ -105,7 +105,7 @@ Step 2: Create a Sales by Region Chart
 
 ○ Sales → Values
 
-<img width="1860" height="947" alt="image" src="https://github.com/user-attachments/assets/e0b41916-0013-416c-b64a-407b0635a6d3" />
+<img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/e0b41916-0013-416c-b64a-407b0635a6d3" />
 
 Question:
 
