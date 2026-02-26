@@ -170,6 +170,40 @@ Answer: Based on the provided visualizations, the data does not specify which re
 
 ● Which product category performs best?
 
-Answer:
+Answer: The Electronics category performs best, contributing 40.82% ($90\text{K}$) of the total sum of sales. Furniture follows closely as the second-best performer at 39.19% ($86\text{K}$), while Office Supplies contributes the least at 19.99% ($44\text{K}$).
+
+● Are sales consistent across dates?
+
+Answer:No, sales are not consistent across dates, as the "Sum of Sales by Year" chart shows a significant drop from approximately 0.2M in 2024 to nearly zero in 2025.
+
+● What business recommendation can you suggest?
+
+Answer:To address the sharp decline in performance, you should investigate the root cause of the sales drop between 2024 and 2025 while verifying if the 2025 data is currently incomplete. Additionally, it is recommended to prioritize marketing for the top-performing Electronics category and incorporate the "Region" field into your analysis to identify if specific territories are driving the downward trend.
+
+LABORATORY QUESTIONS
+
+Part A – Technical Questions
+
+1. What are the five columns in the dataset?
+
+Answer: Category,Date,Product,Region,Sales
+
+2. What data type is assigned to the “Sales” column?
+
+Answer: Based on the Data pane in the provided image, the Sales column is assigned a numeric (Decimal or Whole Number) data type, as indicated by the Sigma ($\sum$) symbol next to the column name. This symbol signifies that the field is a quantitative measure that can be aggregated using functions like sum, average, or count.
+
+3. Which Power BI view allows you to see raw data?
+
+Answer: To see the raw data in Power BI, you would use the Table view (formerly known as Data view), which is typically represented by a spreadsheet-like icon on the left-hand navigation bar. While the current screenshot shows the Report view where visualizations are built, the Table view allows you to inspect, filter, and understand the underlying rows and columns of your dataset.
+
+4. What chart type is best for showing trends over time?
+
+Answer: A Line chart is the best chart type for showing trends over time because it clearly displays the relationship between continuous data points and allows the viewer to identify patterns, such as growth or decline, at a glance. In your current report, a line chart is being used to visualize the "Sum of Sales by Year," showing the sharp downward trend between 2024 and 2025.
+
+5. What aggregation is automatically applied to Sales?
+
+Answer: The Sum aggregation is automatically applied to the Sales column. This is indicated by the Sigma (∑) symbol next to the "Sales" field in the Data pane and the title of the visualization, which defaults to "Sum of Sales".
+
+Part B – Analytical Questions
 
 
