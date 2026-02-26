@@ -145,7 +145,7 @@ Step 4: Sales Over Time
 
 ○ Sales → Values
 
-<img width="1202" height="417" alt="image" src="https://github.com/user-attachments/assets/1c2de1fc-333a-4fcd-9630-e984022e3130" />
+<img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/1c2de1fc-333a-4fcd-9630-e984022e3130" />
 
 
 Question:
@@ -240,7 +240,7 @@ Task 1: Add a Card Visualization
 
 ○ Change title to “Total Sales”
 
-<img width="544" height="295" alt="image" src="https://github.com/user-attachments/assets/ec0b884e-b5ca-4b6b-9fb3-8bc500683e5b" />
+<img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/ec0b884e-b5ca-4b6b-9fb3-8bc500683e5b" />
 
 Question:
 
@@ -254,7 +254,7 @@ Task 2: Add Slicer
 2. Drag Region
 3. Test filtering
 
-<img width="534" height="224" alt="image" src="https://github.com/user-attachments/assets/c1c37865-34fa-4256-91db-13bc2ea80b7c" />
+<img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/c1c37865-34fa-4256-91db-13bc2ea80b7c" />
 
 Question:
 
@@ -272,7 +272,7 @@ Task 3: Sort Sales
 2. Click three dots (...)
 3. Sort by Sales Descending
 
-<img width="1521" height="500" alt="image" src="https://github.com/user-attachments/assets/80cea679-1899-4c97-b683-4f42e412e637" />
+<img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/80cea679-1899-4c97-b683-4f42e412e637" />
 
 QUESTION:
 
