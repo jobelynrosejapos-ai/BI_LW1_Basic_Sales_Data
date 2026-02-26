@@ -254,3 +254,45 @@ Task 2: Add Slicer
 2. Drag Region
 3. Test filtering
 
+<img width="534" height="224" alt="image" src="https://github.com/user-attachments/assets/c1c37865-34fa-4256-91db-13bc2ea80b7c" />
+
+Question:
+
+● What happens to other visuals when you click a region?
+
+Answer: When you click a specific region in this slicer, such as South, all other visuals on the report page are filtered to display only the data related to that selection.
+
+● Why is filtering important in BI?
+
+Answer: Filtering is important in Business Intelligence because it allows users to narrow down vast datasets to uncover specific, actionable insights rather than being overwhelmed by the entire "noise" of the data.
+
+Task 3: Sort Sales
+
+1. Click Region Chart
+2. Click three dots (...)
+3. Sort by Sales Descending
+
+<img width="1521" height="500" alt="image" src="https://github.com/user-attachments/assets/80cea679-1899-4c97-b683-4f42e412e637" />
+
+QUESTION:
+
+Does sorting improve readability?
+
+Answer: Yes
+
+Why?
+
+Answer: Sorting improves readability because it eliminates the mental effort required to manually compare values, allowing the viewer to spot patterns or outliers almost instantly.
+
+Task 4: Identity Outliners
+
+● Whcich  region  is significantly  higher or lower?
+
+Answer: The East region is significantly higher in performance as the top-selling territory, while the South region is significantly lower, typically representing the smallest portion of total sales in this dataset.
+
+● What might explain that difference?
+
+Answer: The performance difference may be driven by higher market demand and population density in the East region's metropolitan hubs, whereas the South might be struggling due to a lower customer base for top-selling categories like Electronics, which currently accounts for 40.82% of total revenue.
+
+
+
