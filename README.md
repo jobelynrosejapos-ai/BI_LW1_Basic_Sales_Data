@@ -145,13 +145,20 @@ Step 4: Sales Over Time
 
 ○ Sales → Values
 
+<img width="1202" height="417" alt="image" src="https://github.com/user-attachments/assets/1c2de1fc-333a-4fcd-9630-e984022e3130" />
+
+
 Question:
 
 ● Is there growth?
 
-Answer:
+Answer: 
+
+No, there is no growth shown in the chart. Instead, there is a significant decline in the sum of sales, which dropped from approximately 0.2M in 2024 to well below 0.1M in 2025.
 
 ● Any noticeable trend?
+
+Answer: The most noticeable trend is a sharp year-over-year decline in the sum of sales, which dropped from approximately $0.2M$ in 2024 to nearly zero in 2025.
 
 Answer: 
 
