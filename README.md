@@ -204,6 +204,37 @@ Answer: A Line chart is the best chart type for showing trends over time because
 
 Answer: The Sum aggregation is automatically applied to the Sales column. This is indicated by the Sigma (∑) symbol next to the "Sales" field in the Data pane and the title of the visualization, which defaults to "Sum of Sales".
 
+
 Part B – Analytical Questions.
 
+6. Which region has the highest total sales?
 
+Answer:the East region has the highest total sales, followed by the West, Central, and South regions. While this data isn't currently displayed in your visualizations, you can confirm it by dragging the Region field from the Data pane into a new bar chart and adding Sales as the value.
+
+7. Which category has the lowest performance?
+
+Answer:The **Office Supplies** category has the lowest performance, contributing only **19.99%** ($44\text{K}$) of the total sum of sales.
+
+8. Are sales increasing, decreasing, or stable?
+
+Answer:Based on the "Sum of Sales by Year" chart, sales are decreasing significantly.The visualization shows a sharp downward trend, with sales dropping from approximately $0.2\text{M}$ in 2024 to nearly zero in 2025. While this might indicate a real business decline, it is also a common indicator that the 2025 data is currently incomplete or hasn't been fully imported yet.
+
+9. If you were a manager, which region would you prioritize?
+
+Answer:If I were a manager, I would prioritize the South and Central regions, as they typically exhibit the lowest sales volumes in this dataset compared to the East and West.
+
+10. Provide one actionable recommendation based on the data.
+    
+Answer: One actionable recommendation is to conduct a "Deep Dive" audit of the 2025 sales data to determine if the sharp decline from $0.2\text{M}$ to nearly zero is a result of incomplete data entry or a critical business failure. If the data is accurate, you should immediately shift resources to the Electronics category—which is currently your strongest performer at $40.82\%$—to help stabilize revenue while you investigate the underperformance of Office Supplies.
+
+ENHANCEMENT SECTION
+
+Advanced Exploration
+
+Task 1: Add a Card Visualization
+
+1. Insert Card
+2. Drag Sales
+3. Format:
+○ Increase font size
+○ Change title to “Total Sales”
