@@ -98,6 +98,20 @@ Step 2: Create a Sales by Region Chart
 1. Click blank canvas
    
 2. Select Clustered Column Chart
+
+3. Drag:
+   
+○ Region → X-axis
+
+○ Sales → Values
+
+<img width="1860" height="947" alt="image" src="https://github.com/user-attachments/assets/e0b41916-0013-416c-b64a-407b0635a6d3" />
+
+Question:
+
+● Which region has highest sales?
+
+Answer: West
    
 
 
