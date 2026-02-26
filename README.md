@@ -112,6 +112,38 @@ Question:
 ● Which region has highest sales?
 
 Answer: West
+
+Step 3: Sales by Category
+
+1. Insert a Pie Chart
+
+2. Drag:
+   
+○ Category → Legend
+
+○ Sales → Values
+
+   <img width="597" height="337" alt="image" src="https://github.com/user-attachments/assets/5e70e08e-f417-4f9c-962f-522de7504e7f" />
+
+Question:
+
+● Which category dominates?
+Answer:
+
+● Is the distribution balanced?
+
+Answer:
+
+Step 4: Sales Over Time
+
+1. Insert Line Chart
+   
+2. Drag:
+   
+○ Date → X-axis
+
+○ Sales → Values
+
    
 
 
