@@ -160,7 +160,13 @@ No, there is no growth shown in the chart. Instead, there is a significant decli
 
 Answer: The most noticeable trend is a sharp year-over-year decline in the sum of sales, which dropped from approximately $0.2M$ in 2024 to nearly zero in 2025.
 
-Answer: 
+PART 4: Basic Data Insight Interpretation
+
+Question:
+
+● Which region contributes most revenue?
+
+Answer: Based on the provided visualizations, the data does not specify which region contributes the most revenue, as the charts only break down sales by year and category. However, the "Sum of Sales by Category" chart shows that Electronics is the top-performing category, accounting for 40.82% ($90\text{K}$) of total revenue.
 
 
 
