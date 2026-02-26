@@ -204,6 +204,6 @@ Answer: A Line chart is the best chart type for showing trends over time because
 
 Answer: The Sum aggregation is automatically applied to the Sales column. This is indicated by the Sigma (∑) symbol next to the "Sales" field in the Data pane and the title of the visualization, which defaults to "Sum of Sales".
 
-Part B – Analytical Questions
+Part B – Analytical Questions.
 
 
